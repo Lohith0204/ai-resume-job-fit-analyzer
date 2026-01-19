@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (Add your Streamlit URL here once deployed)
+🚀 **Streamlit App** → https://ai-resume-job-fit-analyzer.streamlit.app/
 
 ## Overview
 AI Resume Intelligence & Job Fit Analysis System is a deployable NLP-based application that helps evaluate how well a candidate’s resume matches a given job description.
